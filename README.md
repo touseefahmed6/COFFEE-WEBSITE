@@ -1,2 +1,2 @@
 # COFFEE-WEBSITE
- This Coffee Static Website which is designed by using Html and Css.
+ It is Static Coffee Website which is designed by using Html and Css.
